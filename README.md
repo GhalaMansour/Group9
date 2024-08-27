@@ -1,6 +1,6 @@
 # Tahbeer App Documentation
 
-Welcome to the Tahbeer app documentation! Tahbeer is your comprehensive solution for Quran recitation and memorization.
+Welcome to the Tahbeer app documentation! Tahbeer is your comprehensive solution for Quran recitation and memorization. It is designed to enhance the accuracy of Qur'an recitation and improve the learning experience.
 
 For detailed information and to explore the various features of the app, please visit the following link:
 
